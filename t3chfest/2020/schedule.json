@@ -1,0 +1,932 @@
+{
+  "name": "t3chfest",
+  "location": "Universidad Carlos III",
+  "days": [
+    {
+      "date": "12/03/2020",
+      "tracks": [
+        {
+          "name": "track 1",
+          "location": "",
+          "talks": [
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "09:00",
+              "endTime": "09:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Keynote",
+              "description": "",
+              "startTime": "09:30",
+              "endTime": "10:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "10:00",
+              "endTime": "11:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Coffee Break",
+              "description": "",
+              "startTime": "11:00",
+              "endTime": "11:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "TBA",
+              "description": "",
+              "startTime": "11:30",
+              "endTime": "12:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "12:30",
+              "endTime": "13:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "13:30",
+              "endTime": "14:15"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "14:15",
+              "endTime": "15:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "15:30",
+              "endTime": "16:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "16:30",
+              "endTime": "17:15"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "17:15",
+              "endTime": "18:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "18:30",
+              "endTime": "19:30"
+            }
+          ]
+        },
+        {
+          "name": "track 2",
+          "location": "",
+          "talks": [
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "10:00",
+              "endTime": "11:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Coffee Break",
+              "description": "",
+              "startTime": "11:00",
+              "endTime": "11:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "TBA",
+              "description": "",
+              "startTime": "11:30",
+              "endTime": "12:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "12:30",
+              "endTime": "13:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "13:30",
+              "endTime": "14:15"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "14:15",
+              "endTime": "15:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "15:30",
+              "endTime": "16:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "16:30",
+              "endTime": "17:15"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "17:15",
+              "endTime": "18:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "18:30",
+              "endTime": "19:30"
+            }
+          ]
+        },
+        {
+          "name": "track 3",
+          "location": "",
+          "talks": [
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "10:00",
+              "endTime": "11:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Coffee Break",
+              "description": "",
+              "startTime": "11:00",
+              "endTime": "11:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "TBA",
+              "description": "",
+              "startTime": "11:30",
+              "endTime": "12:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "12:30",
+              "endTime": "13:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "13:30",
+              "endTime": "14:15"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "14:15",
+              "endTime": "15:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "15:30",
+              "endTime": "16:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "16:30",
+              "endTime": "17:15"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "17:15",
+              "endTime": "18:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "18:30",
+              "endTime": "19:30"
+            }
+          ]
+        },
+        {
+          "name": "track 4",
+          "location": "",
+          "talks": [
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "10:00",
+              "endTime": "11:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Coffee Break",
+              "description": "",
+              "startTime": "11:00",
+              "endTime": "11:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "TBA",
+              "description": "",
+              "startTime": "11:30",
+              "endTime": "12:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "12:30",
+              "endTime": "13:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "13:30",
+              "endTime": "14:15"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "14:15",
+              "endTime": "15:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "15:30",
+              "endTime": "16:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "16:30",
+              "endTime": "17:15"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "17:15",
+              "endTime": "18:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "18:30",
+              "endTime": "19:30"
+            }
+          ]
+        },
+        {
+          "name": "track 5",
+          "location": "",
+          "talks": [
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "10:00",
+              "endTime": "11:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Coffee Break",
+              "description": "",
+              "startTime": "11:00",
+              "endTime": "11:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "TBA",
+              "description": "",
+              "startTime": "11:30",
+              "endTime": "12:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "12:30",
+              "endTime": "13:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "13:30",
+              "endTime": "14:15"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "14:15",
+              "endTime": "15:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "15:30",
+              "endTime": "16:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "16:30",
+              "endTime": "17:15"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "17:15",
+              "endTime": "18:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "18:30",
+              "endTime": "19:30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "13/03/2020",
+      "tracks": [
+        {
+          "name": "track 1",
+          "location": "",
+          "talks": [
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "09:00",
+              "endTime": "10:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "10:00",
+              "endTime": "11:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Coffee Break",
+              "description": "",
+              "startTime": "11:00",
+              "endTime": "11:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "TBA",
+              "description": "",
+              "startTime": "11:30",
+              "endTime": "12:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "12:30",
+              "endTime": "13:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "13:30",
+              "endTime": "14:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "16:00",
+              "endTime": "17:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "17:00",
+              "endTime": "18:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "18:00",
+              "endTime": "19:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Keynote",
+              "description": "",
+              "startTime": "19:00",
+              "endTime": "19:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Closing",
+              "description": "",
+              "startTime": "19:30",
+              "endTime": "20:00"
+            }
+          ]
+        },
+        {
+          "name": "track 2",
+          "location": "",
+          "talks": [
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "09:00",
+              "endTime": "10:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "10:00",
+              "endTime": "11:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Coffee Break",
+              "description": "",
+              "startTime": "11:00",
+              "endTime": "11:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "TBA",
+              "description": "",
+              "startTime": "11:30",
+              "endTime": "12:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "12:30",
+              "endTime": "13:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "13:30",
+              "endTime": "14:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "16:00",
+              "endTime": "17:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "17:00",
+              "endTime": "18:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "18:00",
+              "endTime": "19:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Keynote",
+              "description": "",
+              "startTime": "19:00",
+              "endTime": "19:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Closing",
+              "description": "",
+              "startTime": "19:30",
+              "endTime": "20:00"
+            }
+          ]
+        },
+        {
+          "name": "track 3",
+          "location": "",
+          "talks": [
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "09:00",
+              "endTime": "10:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "10:00",
+              "endTime": "11:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Coffee Break",
+              "description": "",
+              "startTime": "11:00",
+              "endTime": "11:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "TBA",
+              "description": "",
+              "startTime": "11:30",
+              "endTime": "12:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "12:30",
+              "endTime": "13:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "13:30",
+              "endTime": "14:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "16:00",
+              "endTime": "17:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "17:00",
+              "endTime": "18:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "18:00",
+              "endTime": "19:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Keynote",
+              "description": "",
+              "startTime": "19:00",
+              "endTime": "19:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Closing",
+              "description": "",
+              "startTime": "19:30",
+              "endTime": "20:00"
+            }
+          ]
+        },
+        {
+          "name": "track 4",
+          "location": "",
+          "talks": [
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "09:00",
+              "endTime": "10:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "10:00",
+              "endTime": "11:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Coffee Break",
+              "description": "",
+              "startTime": "11:00",
+              "endTime": "11:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "TBA",
+              "description": "",
+              "startTime": "11:30",
+              "endTime": "12:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "12:30",
+              "endTime": "13:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "13:30",
+              "endTime": "14:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "16:00",
+              "endTime": "17:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "17:00",
+              "endTime": "18:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "18:00",
+              "endTime": "19:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Keynote",
+              "description": "",
+              "startTime": "19:00",
+              "endTime": "19:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Closing",
+              "description": "",
+              "startTime": "19:30",
+              "endTime": "20:00"
+            }
+          ]
+        },
+        {
+          "name": "track 5",
+          "location": "",
+          "talks": [
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "09:00",
+              "endTime": "10:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "10:00",
+              "endTime": "11:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Coffee Break",
+              "description": "",
+              "startTime": "11:00",
+              "endTime": "11:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "TBA",
+              "description": "",
+              "startTime": "11:30",
+              "endTime": "12:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "12:30",
+              "endTime": "13:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "13:30",
+              "endTime": "14:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "16:00",
+              "endTime": "17:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "17:00",
+              "endTime": "18:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome Opening",
+              "description": "",
+              "startTime": "18:00",
+              "endTime": "19:00"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Keynote",
+              "description": "",
+              "startTime": "19:00",
+              "endTime": "19:30"
+            },
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Closing",
+              "description": "",
+              "startTime": "19:30",
+              "endTime": "20:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "days": [
+    {
+      "date": "",
+      "tracks": [
+        {
+          "name": "track 1",
+          "location": "",
+          "talks": [
+            {
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "",
+              "description": "",
+              "startTime": "",
+              "endTime": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
