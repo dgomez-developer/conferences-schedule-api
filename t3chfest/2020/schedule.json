@@ -3,6 +3,7 @@
   "location": "Universidad Carlos III",
   "days": [
     {
+      "dayId": 1,
       "date": "12/03/2020",
       "tracks": [
         {
@@ -10,6 +11,7 @@
           "location": "",
           "talks": [
             {
+              "position": 0,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -18,6 +20,7 @@
               "endTime": "09:30"
             },
             {
+              "position": 1,
               "speaker": "",
               "speakerInfo": "",
               "title": "Keynote",
@@ -26,6 +29,7 @@
               "endTime": "10:00"
             },
             {
+              "position": 2,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -34,6 +38,7 @@
               "endTime": "11:00"
             },
             {
+              "position": 3,
               "speaker": "",
               "speakerInfo": "",
               "title": "Coffee Break",
@@ -42,6 +47,7 @@
               "endTime": "11:30"
             },
             {
+              "position": 4,
               "speaker": "",
               "speakerInfo": "",
               "title": "TBA",
@@ -50,6 +56,7 @@
               "endTime": "12:30"
             },
             {
+              "position": 5,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -58,6 +65,7 @@
               "endTime": "13:30"
             },
             {
+              "position": 6,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -66,6 +74,7 @@
               "endTime": "14:15"
             },
             {
+              "position": 7,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -74,6 +83,7 @@
               "endTime": "15:30"
             },
             {
+              "position": 8,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -82,6 +92,7 @@
               "endTime": "16:30"
             },
             {
+              "position": 9,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -90,6 +101,7 @@
               "endTime": "17:15"
             },
             {
+              "position": 10,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -98,6 +110,7 @@
               "endTime": "18:30"
             },
             {
+              "position": 11,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -112,6 +125,7 @@
           "location": "",
           "talks": [
             {
+              "position": 0,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -120,6 +134,7 @@
               "endTime": "11:00"
             },
             {
+              "position": 1,
               "speaker": "",
               "speakerInfo": "",
               "title": "Coffee Break",
@@ -128,6 +143,7 @@
               "endTime": "11:30"
             },
             {
+              "position": 2,
               "speaker": "",
               "speakerInfo": "",
               "title": "TBA",
@@ -136,6 +152,7 @@
               "endTime": "12:30"
             },
             {
+              "position": 3,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -144,6 +161,7 @@
               "endTime": "13:30"
             },
             {
+              "position": 4,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -152,6 +170,7 @@
               "endTime": "14:15"
             },
             {
+              "position": 5,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -160,6 +179,7 @@
               "endTime": "15:30"
             },
             {
+              "position": 6,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -168,6 +188,7 @@
               "endTime": "16:30"
             },
             {
+              "position": 7,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -176,6 +197,7 @@
               "endTime": "17:15"
             },
             {
+              "position": 8,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -184,6 +206,7 @@
               "endTime": "18:30"
             },
             {
+              "position": 9,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -198,6 +221,7 @@
           "location": "",
           "talks": [
             {
+              "position": 0,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -206,6 +230,7 @@
               "endTime": "11:00"
             },
             {
+              "position": 1,
               "speaker": "",
               "speakerInfo": "",
               "title": "Coffee Break",
@@ -214,6 +239,7 @@
               "endTime": "11:30"
             },
             {
+              "position": 2,
               "speaker": "",
               "speakerInfo": "",
               "title": "TBA",
@@ -222,6 +248,7 @@
               "endTime": "12:30"
             },
             {
+              "position": 3,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -230,6 +257,7 @@
               "endTime": "13:30"
             },
             {
+              "position": 4,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -238,6 +266,7 @@
               "endTime": "14:15"
             },
             {
+              "position": 5,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -246,6 +275,7 @@
               "endTime": "15:30"
             },
             {
+              "position": 6,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -254,6 +284,7 @@
               "endTime": "16:30"
             },
             {
+              "position": 7,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -262,6 +293,7 @@
               "endTime": "17:15"
             },
             {
+              "position": 8,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -270,6 +302,7 @@
               "endTime": "18:30"
             },
             {
+              "position": 9,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -284,6 +317,7 @@
           "location": "",
           "talks": [
             {
+              "position": 0,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -292,6 +326,7 @@
               "endTime": "11:00"
             },
             {
+              "position": 1,
               "speaker": "",
               "speakerInfo": "",
               "title": "Coffee Break",
@@ -300,6 +335,7 @@
               "endTime": "11:30"
             },
             {
+              "position": 2,
               "speaker": "",
               "speakerInfo": "",
               "title": "TBA",
@@ -308,6 +344,7 @@
               "endTime": "12:30"
             },
             {
+              "position": 3,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -316,6 +353,7 @@
               "endTime": "13:30"
             },
             {
+              "position": 4,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -324,6 +362,7 @@
               "endTime": "14:15"
             },
             {
+              "position": 5,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -332,6 +371,7 @@
               "endTime": "15:30"
             },
             {
+              "position": 6,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -340,6 +380,7 @@
               "endTime": "16:30"
             },
             {
+              "position": 7,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -348,6 +389,7 @@
               "endTime": "17:15"
             },
             {
+              "position": 8,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -356,6 +398,7 @@
               "endTime": "18:30"
             },
             {
+              "position": 9,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -370,6 +413,7 @@
           "location": "",
           "talks": [
             {
+              "position": 0,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -378,6 +422,7 @@
               "endTime": "11:00"
             },
             {
+              "position": 1,
               "speaker": "",
               "speakerInfo": "",
               "title": "Coffee Break",
@@ -386,6 +431,7 @@
               "endTime": "11:30"
             },
             {
+              "position": 2,
               "speaker": "",
               "speakerInfo": "",
               "title": "TBA",
@@ -394,6 +440,7 @@
               "endTime": "12:30"
             },
             {
+              "position": 3,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -402,6 +449,7 @@
               "endTime": "13:30"
             },
             {
+              "position": 4,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -410,6 +458,7 @@
               "endTime": "14:15"
             },
             {
+              "position": 5,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -418,6 +467,7 @@
               "endTime": "15:30"
             },
             {
+              "position": 6,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -426,6 +476,7 @@
               "endTime": "16:30"
             },
             {
+              "position": 7,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -434,6 +485,7 @@
               "endTime": "17:15"
             },
             {
+              "position": 8,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -442,6 +494,7 @@
               "endTime": "18:30"
             },
             {
+              "position": 9,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -454,6 +507,7 @@
       ]
     },
     {
+      "dayId": 2,
       "date": "13/03/2020",
       "tracks": [
         {
@@ -461,6 +515,7 @@
           "location": "",
           "talks": [
             {
+              "position": 0,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -469,6 +524,7 @@
               "endTime": "10:00"
             },
             {
+              "position": 1,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -477,6 +533,7 @@
               "endTime": "11:00"
             },
             {
+              "position": 2,
               "speaker": "",
               "speakerInfo": "",
               "title": "Coffee Break",
@@ -485,6 +542,7 @@
               "endTime": "11:30"
             },
             {
+              "position": 3,
               "speaker": "",
               "speakerInfo": "",
               "title": "TBA",
@@ -493,6 +551,7 @@
               "endTime": "12:30"
             },
             {
+              "position": 4,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -501,6 +560,7 @@
               "endTime": "13:30"
             },
             {
+              "position": 5,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -509,6 +569,7 @@
               "endTime": "14:30"
             },
             {
+              "position": 6,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -517,6 +578,7 @@
               "endTime": "17:00"
             },
             {
+              "position": 7,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -525,6 +587,7 @@
               "endTime": "18:00"
             },
             {
+              "position": 8,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -533,6 +596,7 @@
               "endTime": "19:00"
             },
             {
+              "position": 9,
               "speaker": "",
               "speakerInfo": "",
               "title": "Keynote",
@@ -541,6 +605,7 @@
               "endTime": "19:30"
             },
             {
+              "position": 10,
               "speaker": "",
               "speakerInfo": "",
               "title": "Closing",
@@ -555,6 +620,7 @@
           "location": "",
           "talks": [
             {
+              "position": 0,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -563,6 +629,7 @@
               "endTime": "10:00"
             },
             {
+              "position": 1,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -571,6 +638,7 @@
               "endTime": "11:00"
             },
             {
+              "position": 3,
               "speaker": "",
               "speakerInfo": "",
               "title": "Coffee Break",
@@ -579,6 +647,7 @@
               "endTime": "11:30"
             },
             {
+              "position": 4,
               "speaker": "",
               "speakerInfo": "",
               "title": "TBA",
@@ -587,6 +656,7 @@
               "endTime": "12:30"
             },
             {
+              "position": 5,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -595,6 +665,7 @@
               "endTime": "13:30"
             },
             {
+              "position": 6,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -603,6 +674,7 @@
               "endTime": "14:30"
             },
             {
+              "position": 7,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -611,6 +683,7 @@
               "endTime": "17:00"
             },
             {
+              "position": 8,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -619,6 +692,7 @@
               "endTime": "18:00"
             },
             {
+              "position": 9,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -627,6 +701,7 @@
               "endTime": "19:00"
             },
             {
+              "position": 10,
               "speaker": "",
               "speakerInfo": "",
               "title": "Keynote",
@@ -635,6 +710,7 @@
               "endTime": "19:30"
             },
             {
+              "position": 11,
               "speaker": "",
               "speakerInfo": "",
               "title": "Closing",
@@ -649,6 +725,7 @@
           "location": "",
           "talks": [
             {
+              "position": 0,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -657,6 +734,7 @@
               "endTime": "10:00"
             },
             {
+              "position": 1,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -665,6 +743,7 @@
               "endTime": "11:00"
             },
             {
+              "position": 2,
               "speaker": "",
               "speakerInfo": "",
               "title": "Coffee Break",
@@ -673,6 +752,7 @@
               "endTime": "11:30"
             },
             {
+              "position": 3,
               "speaker": "",
               "speakerInfo": "",
               "title": "TBA",
@@ -681,6 +761,7 @@
               "endTime": "12:30"
             },
             {
+              "position": 4,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -689,6 +770,7 @@
               "endTime": "13:30"
             },
             {
+              "position": 5,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -697,6 +779,7 @@
               "endTime": "14:30"
             },
             {
+              "position": 6,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -705,6 +788,7 @@
               "endTime": "17:00"
             },
             {
+              "position": 7,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -713,6 +797,7 @@
               "endTime": "18:00"
             },
             {
+              "position": 8,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -721,6 +806,7 @@
               "endTime": "19:00"
             },
             {
+              "position": 9,
               "speaker": "",
               "speakerInfo": "",
               "title": "Keynote",
@@ -729,6 +815,7 @@
               "endTime": "19:30"
             },
             {
+              "position": 10,
               "speaker": "",
               "speakerInfo": "",
               "title": "Closing",
@@ -743,6 +830,7 @@
           "location": "",
           "talks": [
             {
+              "position": 0,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -751,6 +839,7 @@
               "endTime": "10:00"
             },
             {
+              "position": 1,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -759,6 +848,7 @@
               "endTime": "11:00"
             },
             {
+              "position": 2,
               "speaker": "",
               "speakerInfo": "",
               "title": "Coffee Break",
@@ -767,6 +857,7 @@
               "endTime": "11:30"
             },
             {
+              "position": 3,
               "speaker": "",
               "speakerInfo": "",
               "title": "TBA",
@@ -775,6 +866,7 @@
               "endTime": "12:30"
             },
             {
+              "position": 4,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -783,6 +875,7 @@
               "endTime": "13:30"
             },
             {
+              "position": 5,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -791,6 +884,7 @@
               "endTime": "14:30"
             },
             {
+              "position": 6,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -799,6 +893,7 @@
               "endTime": "17:00"
             },
             {
+              "position": 7,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -807,6 +902,7 @@
               "endTime": "18:00"
             },
             {
+              "position": 8,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -815,6 +911,7 @@
               "endTime": "19:00"
             },
             {
+              "position": 9,
               "speaker": "",
               "speakerInfo": "",
               "title": "Keynote",
@@ -823,6 +920,7 @@
               "endTime": "19:30"
             },
             {
+              "position": 10,
               "speaker": "",
               "speakerInfo": "",
               "title": "Closing",
@@ -837,6 +935,7 @@
           "location": "",
           "talks": [
             {
+              "position": 0,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -845,6 +944,7 @@
               "endTime": "10:00"
             },
             {
+              "position": 1,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -853,6 +953,7 @@
               "endTime": "11:00"
             },
             {
+              "position": 2,
               "speaker": "",
               "speakerInfo": "",
               "title": "Coffee Break",
@@ -861,6 +962,7 @@
               "endTime": "11:30"
             },
             {
+              "position": 3,
               "speaker": "",
               "speakerInfo": "",
               "title": "TBA",
@@ -869,6 +971,7 @@
               "endTime": "12:30"
             },
             {
+              "position": 4,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -877,6 +980,7 @@
               "endTime": "13:30"
             },
             {
+              "position": 5,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -885,6 +989,7 @@
               "endTime": "14:30"
             },
             {
+              "position": 6,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -893,6 +998,7 @@
               "endTime": "17:00"
             },
             {
+              "position": 7,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -901,6 +1007,7 @@
               "endTime": "18:00"
             },
             {
+              "position": 8,
               "speaker": "",
               "speakerInfo": "",
               "title": "Welcome Opening",
@@ -909,6 +1016,7 @@
               "endTime": "19:00"
             },
             {
+              "position": 9,
               "speaker": "",
               "speakerInfo": "",
               "title": "Keynote",
@@ -917,6 +1025,7 @@
               "endTime": "19:30"
             },
             {
+              "position": 10,
               "speaker": "",
               "speakerInfo": "",
               "title": "Closing",

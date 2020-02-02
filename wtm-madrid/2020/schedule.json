@@ -2,6 +2,7 @@
   "name": "",
   "days": [
     {
+      "dayId": 1,
       "date": "",
       "tracks": [
         {
@@ -9,6 +10,7 @@
           "location": "",
           "talks": [
             {
+              "position": 0,
               "speaker": "",
               "speakerInfo": "",
               "title": "",
