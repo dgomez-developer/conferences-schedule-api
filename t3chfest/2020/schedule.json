@@ -30,9 +30,9 @@
             },
             {
               "position": 2,
-              "speaker": "",
+              "speaker": "María Beltrán Pardo",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "En manos de quién te gustaría dejar la gestión de tu identidad digital",
               "description": "",
               "startTime": "10:00",
               "endTime": "11:00"
@@ -41,7 +41,7 @@
               "position": 3,
               "speaker": "",
               "speakerInfo": "",
-              "title": "Coffee Break",
+              "title": "TBA",
               "description": "",
               "startTime": "11:00",
               "endTime": "11:30"
@@ -57,18 +57,18 @@
             },
             {
               "position": 5,
-              "speaker": "",
+              "speaker": "Borja González León",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "Designing the Brain of your Autonomous Car",
               "description": "",
               "startTime": "12:30",
               "endTime": "13:30"
             },
             {
               "position": 6,
-              "speaker": "",
+              "speaker": "Javier Ramirez",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "GPT-2, un modelo ML tan avanzado que sus creadores tenían miedo de publicarlo",
               "description": "",
               "startTime": "13:30",
               "endTime": "14:15"
@@ -77,16 +77,16 @@
               "position": 7,
               "speaker": "",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "Lunch Break",
               "description": "",
               "startTime": "14:15",
               "endTime": "15:30"
             },
             {
               "position": 8,
-              "speaker": "",
+              "speaker": "Santi García Cremades",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "La revolución de los fractales",
               "description": "",
               "startTime": "15:30",
               "endTime": "16:30"
@@ -95,7 +95,7 @@
               "position": 9,
               "speaker": "",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "TBA",
               "description": "",
               "startTime": "16:30",
               "endTime": "17:15"
@@ -104,16 +104,25 @@
               "position": 10,
               "speaker": "",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "Break",
               "description": "",
               "startTime": "17:15",
-              "endTime": "18:30"
+              "endTime": "17:30"
             },
             {
               "position": 11,
-              "speaker": "",
+              "speaker": "Alex Fernández Martínez",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "Bacterias: máquinas que dominan el universo",
+              "description": "",
+              "startTime": "17:30",
+              "endTime": "18:30"
+            },
+            {
+              "position": 12,
+              "speaker": "Aarón Nercellas Ventas",
+              "speakerInfo": "",
+              "title": "Nanostélites: una revolución industrial",
               "description": "",
               "startTime": "18:30",
               "endTime": "19:30"
@@ -128,13 +137,31 @@
               "position": 0,
               "speaker": "",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "",
+              "description": "",
+              "startTime": "09:00",
+              "endTime": "09:30"
+            },
+            {
+              "position": 1,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "",
+              "description": "",
+              "startTime": "09:30",
+              "endTime": "10:00"
+            },
+            {
+              "position": 2,
+              "speaker": "Rubén Mínguez y María Benavente",
+              "speakerInfo": "",
+              "title": "Bots vs FAke news: ¿cómo aplicamos Machine Learning a la verificación de datos?",
               "description": "",
               "startTime": "10:00",
               "endTime": "11:00"
             },
             {
-              "position": 1,
+              "position": 3,
               "speaker": "",
               "speakerInfo": "",
               "title": "Coffee Break",
@@ -143,73 +170,82 @@
               "endTime": "11:30"
             },
             {
-              "position": 2,
-              "speaker": "",
+              "position": 4,
+              "speaker": "Alicia Pérez Jiménez",
               "speakerInfo": "",
-              "title": "TBA",
+              "title": "Que la generación Z no rompa tus modelos",
               "description": "",
               "startTime": "11:30",
               "endTime": "12:30"
             },
             {
-              "position": 3,
+              "position": 5,
               "speaker": "",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "TBA",
               "description": "",
               "startTime": "12:30",
               "endTime": "13:30"
             },
             {
-              "position": 4,
-              "speaker": "",
+              "position": 6,
+              "speaker": "Emilio Martín Gallardo y Elena Tomas Herruzo",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "El secreto para avanzar hacia las estaciones de servicios inteligentes",
               "description": "",
               "startTime": "13:30",
               "endTime": "14:15"
             },
             {
-              "position": 5,
+              "position": 7,
               "speaker": "",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "Lunch Break",
               "description": "",
               "startTime": "14:15",
               "endTime": "15:30"
             },
             {
-              "position": 6,
-              "speaker": "",
+              "position": 8,
+              "speaker": "Toni de la Prieta, Jorge Hidalgo y Rosa Benido",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "Tech Vision: una mirada a cómo será la era post-digital",
               "description": "",
               "startTime": "15:30",
               "endTime": "16:30"
             },
             {
-              "position": 7,
-              "speaker": "",
+              "position": 9,
+              "speaker": "Rubén Martínez Sánchez",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "Spiking Neural Networks: evolucionando la IA para que sea más biológica",
               "description": "",
               "startTime": "16:30",
               "endTime": "17:15"
             },
             {
-              "position": 8,
+              "position": 10,
               "speaker": "",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "Break",
               "description": "",
               "startTime": "17:15",
+              "endTime": "17:30"
+            },
+            {
+              "position": 11,
+              "speaker": "Jon Roji Taboada",
+              "speakerInfo": "",
+              "title": "No me da la vida",
+              "description": "",
+              "startTime": "17:30",
               "endTime": "18:30"
             },
             {
-              "position": 9,
-              "speaker": "",
+              "position": 12,
+              "speaker": "Marta Timon y Ares Aguilar",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "How we trained our NLP model to respect the underrepresented (class)",
               "description": "",
               "startTime": "18:30",
               "endTime": "19:30"
@@ -224,88 +260,115 @@
               "position": 0,
               "speaker": "",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "",
               "description": "",
-              "startTime": "10:00",
-              "endTime": "11:00"
+              "startTime": "09:00",
+              "endTime": "09:30"
             },
             {
               "position": 1,
               "speaker": "",
               "speakerInfo": "",
-              "title": "Coffee Break",
+              "title": "",
               "description": "",
-              "startTime": "11:00",
-              "endTime": "11:30"
+              "startTime": "09:30",
+              "endTime": "10:00"
             },
             {
               "position": 2,
-              "speaker": "",
+              "speaker": "Manu Martínez-Almeida",
               "speakerInfo": "",
-              "title": "TBA",
+              "title": "Ray tracing para tomografías en la web",
               "description": "",
-              "startTime": "11:30",
-              "endTime": "12:30"
+              "startTime": "10:00",
+              "endTime": "11:00"
             },
             {
               "position": 3,
               "speaker": "",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "Cooffe Break",
+              "description": "",
+              "startTime": "11:00",
+              "endTime": "11:30"
+            },
+            {
+              "position": 4,
+              "speaker": "Naomi Meyer",
+              "speakerInfo": "",
+              "title": "Emoji encoding, Unicode, and Internationalization",
+              "description": "",
+              "startTime": "11:30",
+              "endTime": "12:30"
+            },
+            {
+              "position": 5,
+              "speaker": "Cassidy Williams",
+              "speakerInfo": "",
+              "title": "How State (Really) Works in REact",
               "description": "",
               "startTime": "12:30",
               "endTime": "13:30"
             },
             {
-              "position": 4,
-              "speaker": "",
+              "position": 6,
+              "speaker": "Javier de Arcos Velilla",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "Mutation Testing: who matches the watchmen",
               "description": "",
               "startTime": "13:30",
               "endTime": "14:15"
             },
             {
-              "position": 5,
+              "position": 7,
               "speaker": "",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "Lunch Break",
               "description": "",
               "startTime": "14:15",
               "endTime": "15:30"
             },
             {
-              "position": 6,
-              "speaker": "",
+              "position": 8,
+              "speaker": "Alba Cervera Lierta",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "La llamada cuántica",
               "description": "",
               "startTime": "15:30",
               "endTime": "16:30"
             },
             {
-              "position": 7,
-              "speaker": "",
+              "position": 9,
+              "speaker": "Daniel Pérez Lozano",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "Cómo construir un ordenador cuántico",
               "description": "",
               "startTime": "16:30",
               "endTime": "17:15"
             },
             {
-              "position": 8,
+              "position": 10,
               "speaker": "",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "Break",
               "description": "",
               "startTime": "17:15",
+              "endTime": "17:30"
+            },
+            {
+              "position": 11,
+              "speaker": "Carolina Gómez Uriarte y Marta Barrio",
+              "speakerInfo": "",
+              "title": "2FA? Trust me, I've pwned you",
+              "description": "",
+              "startTime": "17:30",
               "endTime": "18:30"
             },
             {
-              "position": 9,
-              "speaker": "",
+              "position": 12,
+              "speaker": "Manuel Vilachán Pérez y Antonio Martín Alberdi",
               "speakerInfo": "",
-              "title": "Welcome Opening",
+              "title": "WebAtuhn: No más passwords por favor",
               "description": "",
               "startTime": "18:30",
               "endTime": "19:30"
