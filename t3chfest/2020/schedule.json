@@ -21,18 +21,18 @@
             },
             {
               "position": 1,
-              "speaker": "",
+              "speaker": "Juan Tapiador y Narseo Vallina-Rodríguez",
               "speakerInfo": "",
-              "title": "Keynote",
+              "title": "El ciberpanóptico: la privacidad en la era del äppärät",
               "description": "",
               "startTime": "09:30",
               "endTime": "10:00"
             },
             {
               "position": 2,
-              "speaker": "María Beltrán Pardo",
+              "speaker": "Rubén Mínguez y María Benavente",
               "speakerInfo": "",
-              "title": "En manos de quién te gustaría dejar la gestión de tu identidad digital",
+              "title": "Bots vs FAke news: ¿cómo aplicamos Machine Learning a la verificación de datos?",
               "description": "",
               "startTime": "10:00",
               "endTime": "11:00"
@@ -41,37 +41,37 @@
               "position": 3,
               "speaker": "",
               "speakerInfo": "",
-              "title": "TBA",
+              "title": "Coffee break",
               "description": "",
               "startTime": "11:00",
               "endTime": "11:30"
             },
             {
               "position": 4,
-              "speaker": "",
+              "speaker": "Lorena Fernández",
               "speakerInfo": "",
-              "title": "TBA",
+              "title": "¿Puede ser una máquina quitanieves machista?",
               "description": "",
               "startTime": "11:30",
               "endTime": "12:30"
             },
             {
               "position": 5,
-              "speaker": "Borja González León",
+              "speaker": "Juan Carlos Ruiz Carrión",
               "speakerInfo": "",
-              "title": "Designing the Brain of your Autonomous Car",
+              "title": "Sistemas de diseño eficientes. Una historia de amor entre diseño y desarrollo",
               "description": "",
               "startTime": "12:30",
               "endTime": "13:30"
             },
             {
               "position": 6,
-              "speaker": "Javier Ramirez",
+              "speaker": "Irene Pérez Encinar y María Camila Maya Salas",
               "speakerInfo": "",
-              "title": "GPT-2, un modelo ML tan avanzado que sus creadores tenían miedo de publicarlo",
+              "title": "Sairway to product: muestra experiencia evolucionando un prototipo",
               "description": "",
               "startTime": "13:30",
-              "endTime": "14:15"
+              "endTime": "14:20"
             },
             {
               "position": 7,
@@ -79,23 +79,23 @@
               "speakerInfo": "",
               "title": "Lunch Break",
               "description": "",
-              "startTime": "14:15",
+              "startTime": "14:20",
               "endTime": "15:30"
             },
             {
               "position": 8,
-              "speaker": "Santi García Cremades",
+              "speaker": "María Berenguer",
               "speakerInfo": "",
-              "title": "La revolución de los fractales",
+              "title": "Mis Retrospectivas se han roto. Antipatrones de equipo",
               "description": "",
               "startTime": "15:30",
               "endTime": "16:30"
             },
             {
               "position": 9,
-              "speaker": "",
+              "speaker": "Cuáles van a ser los empleos del futuro",
               "speakerInfo": "",
-              "title": "TBA",
+              "title": "Elena Ibáñez",
               "description": "",
               "startTime": "16:30",
               "endTime": "17:15"
@@ -111,18 +111,18 @@
             },
             {
               "position": 11,
-              "speaker": "Alex Fernández Martínez",
+              "speaker": "Jon Roji Taboada",
               "speakerInfo": "",
-              "title": "Bacterias: máquinas que dominan el universo",
+              "title": "No me da la vida",
               "description": "",
               "startTime": "17:30",
               "endTime": "18:30"
             },
             {
               "position": 12,
-              "speaker": "Aarón Nercellas Ventas",
+              "speaker": "Vinko Vrsalovic",
               "speakerInfo": "",
-              "title": "Nanostélites: una revolución industrial",
+              "title": "Desarrollando software remoto (cómo saber is es adecuado para ti)",
               "description": "",
               "startTime": "18:30",
               "endTime": "19:30"
@@ -153,9 +153,9 @@
             },
             {
               "position": 2,
-              "speaker": "Rubén Mínguez y María Benavente",
+              "speaker": "María Beltrán Pardo",
               "speakerInfo": "",
-              "title": "Bots vs FAke news: ¿cómo aplicamos Machine Learning a la verificación de datos?",
+              "title": "En manos de quién te gustaría dejar la gestión de tu identidad digital",
               "description": "",
               "startTime": "10:00",
               "endTime": "11:00"
@@ -171,30 +171,30 @@
             },
             {
               "position": 4,
-              "speaker": "Alicia Pérez Jiménez",
+              "speaker": "César Astudillo",
               "speakerInfo": "",
-              "title": "Que la generación Z no rompa tus modelos",
+              "title": "Esto le hacen los chiptunes a tu cerebro: neurociencia de la música de 8 bits",
               "description": "",
               "startTime": "11:30",
               "endTime": "12:30"
             },
             {
               "position": 5,
-              "speaker": "",
+              "speaker": "Cassidy Williams",
               "speakerInfo": "",
-              "title": "TBA",
+              "title": "How State (Really) Works in React",
               "description": "",
               "startTime": "12:30",
               "endTime": "13:30"
             },
             {
               "position": 6,
-              "speaker": "Emilio Martín Gallardo y Elena Tomas Herruzo",
+              "speaker": "Javier Ramirez",
               "speakerInfo": "",
-              "title": "El secreto para avanzar hacia las estaciones de servicios inteligentes",
+              "title": "GPT-2, un modelo ML tan avanzado que sus creadores tenían miedo de publicarlo",
               "description": "",
               "startTime": "13:30",
-              "endTime": "14:15"
+              "endTime": "14:20"
             },
             {
               "position": 7,
@@ -202,23 +202,23 @@
               "speakerInfo": "",
               "title": "Lunch Break",
               "description": "",
-              "startTime": "14:15",
+              "startTime": "14:20",
               "endTime": "15:30"
             },
             {
               "position": 8,
-              "speaker": "Toni de la Prieta, Jorge Hidalgo y Rosa Benido",
+              "speaker": "Santi García Cremades",
               "speakerInfo": "",
-              "title": "Tech Vision: una mirada a cómo será la era post-digital",
+              "title": "La revolución de los fractales",
               "description": "",
               "startTime": "15:30",
               "endTime": "16:30"
             },
             {
               "position": 9,
-              "speaker": "Rubén Martínez Sánchez",
+              "speaker": "Ignacio Crespo Pita",
               "speakerInfo": "",
-              "title": "Spiking Neural Networks: evolucionando la IA para que sea más biológica",
+              "title": "Del cerebro al ordenador y vuelta",
               "description": "",
               "startTime": "16:30",
               "endTime": "17:15"
@@ -234,9 +234,9 @@
             },
             {
               "position": 11,
-              "speaker": "Jon Roji Taboada",
+              "speaker": "Alex Fernández Martínez",
               "speakerInfo": "",
-              "title": "No me da la vida",
+              "title": "Bacterias: máquinas que dominan el universo",
               "description": "",
               "startTime": "17:30",
               "endTime": "18:30"
@@ -276,9 +276,9 @@
             },
             {
               "position": 2,
-              "speaker": "Manu Martínez-Almeida",
+              "speaker": "Laura Vidal",
               "speakerInfo": "",
-              "title": "Ray tracing para tomografías en la web",
+              "title": "Diseñar mal para diseñar bien",
               "description": "",
               "startTime": "10:00",
               "endTime": "11:00"
@@ -294,18 +294,18 @@
             },
             {
               "position": 4,
-              "speaker": "Naomi Meyer",
+              "speaker": "Barbara Moure y Angelo Pirola",
               "speakerInfo": "",
-              "title": "Emoji encoding, Unicode, and Internationalization",
+              "title": "Tecnología al servicio de colectivos en riesgo. El papel del desarrollador",
               "description": "",
               "startTime": "11:30",
               "endTime": "12:30"
             },
             {
               "position": 5,
-              "speaker": "Cassidy Williams",
+              "speaker": "Borja González León",
               "speakerInfo": "",
-              "title": "How State (Really) Works in REact",
+              "title": "Designing the Brain of your Autonomous Car",
               "description": "",
               "startTime": "12:30",
               "endTime": "13:30"
@@ -317,7 +317,7 @@
               "title": "Mutation Testing: who matches the watchmen",
               "description": "",
               "startTime": "13:30",
-              "endTime": "14:15"
+              "endTime": "14:20"
             },
             {
               "position": 7,
@@ -325,7 +325,7 @@
               "speakerInfo": "",
               "title": "Lunch Break",
               "description": "",
-              "startTime": "14:15",
+              "startTime": "14:20",
               "endTime": "15:30"
             },
             {
@@ -339,9 +339,9 @@
             },
             {
               "position": 9,
-              "speaker": "Daniel Pérez Lozano",
+              "speaker": "Oriol Ciurana",
               "speakerInfo": "",
-              "title": "Cómo construir un ordenador cuántico",
+              "title": "Controlando el consumeo energético del hogar con la ayuda de IoT",
               "description": "",
               "startTime": "16:30",
               "endTime": "17:15"
@@ -357,9 +357,9 @@
             },
             {
               "position": 11,
-              "speaker": "Carolina Gómez Uriarte y Marta Barrio",
+              "speaker": "Marco Gramaglia y Iñaki Úcar",
               "speakerInfo": "",
-              "title": "2FA? Trust me, I've pwned you",
+              "title": "Datos buenos, limpios y justos para el mejorar el servicio público",
               "description": "",
               "startTime": "17:30",
               "endTime": "18:30"
@@ -399,7 +399,7 @@
             },
             {
               "position": 2,
-              "speaker": "Alejandro Martíin Valledor",
+              "speaker": "Alejandro Martín Valledor",
               "speakerInfo": "",
               "title": "Talk to your database",
               "description": "",
@@ -417,30 +417,30 @@
             },
             {
               "position": 4,
-              "speaker": "Barbara Moure y Angelo Pirola",
+              "speaker": "",
               "speakerInfo": "",
-              "title": "Tecnología al servicio de colectivos en riesgo. El papel del desarrollador",
+              "title": "TBA",
               "description": "",
               "startTime": "11:30",
               "endTime": "12:30"
             },
             {
               "position": 5,
-              "speaker": "Juan Carlos Ruiz Carrión",
+              "speaker": "Alicia Pérez Jiménez",
               "speakerInfo": "",
-              "title": "Sistemas de diseño eficientes. Una historia de amor entre diseño y desarrollo",
+              "title": "Que la generación Z no rompa tus modelos",
               "description": "",
               "startTime": "12:30",
               "endTime": "13:30"
             },
             {
               "position": 6,
-              "speaker": "Irene Pérez Encinar y María Camila Maya Salas",
+              "speaker": "Emilio Martín Gallardo y Elena Tomas Herruzo",
               "speakerInfo": "",
-              "title": "Sairway to product: muestra experiencia evolucionando un prototipo",
+              "title": "El secreto para avanzar hacia las estaciones de servicios inteligentes",
               "description": "",
               "startTime": "13:30",
-              "endTime": "14:15"
+              "endTime": "14:20"
             },
             {
               "position": 7,
@@ -448,23 +448,23 @@
               "speakerInfo": "",
               "title": "Lunch Break",
               "description": "",
-              "startTime": "14:15",
+              "startTime": "14:20",
               "endTime": "15:30"
             },
             {
               "position": 8,
-              "speaker": "María Berenguer",
+              "speaker": "Toni de la Prieta, Jorge Hidalgo y Rosa Benido",
               "speakerInfo": "",
-              "title": "Mis Retrospectivas se han roto. Antipatrones de equipo",
+              "title": "Tech Vision: una mirada a cómo será la era post-digital",
               "description": "",
               "startTime": "15:30",
               "endTime": "16:30"
             },
             {
               "position": 9,
-              "speaker": "Elena Ibáñez",
+              "speaker": "Rubén Martínez Sánchez",
               "speakerInfo": "",
-              "title": "Cuáles van a ser los empleos del futuro",
+              "title": "Spiking Neural Networks: evolucionando la IA para que sea más biológica",
               "description": "",
               "startTime": "16:30",
               "endTime": "17:15"
@@ -480,9 +480,9 @@
             },
             {
               "position": 11,
-              "speaker": "Joaquín Pena Sapelli y Gabriela Varone",
+              "speaker": "Carolina Gómez Uriarte y Marta Barrio",
               "speakerInfo": "",
-              "title": "Un árbol de posibilidades",
+              "title": "2FA? Trust me, I've pwned you",
               "description": "",
               "startTime": "17:30",
               "endTime": "18:30"
@@ -522,9 +522,9 @@
             },
             {
               "position": 2,
-              "speaker": "Laura Vidal",
+              "speaker": "Manu Martínez-Almeida",
               "speakerInfo": "",
-              "title": "Diseñar mal para diseñar bien",
+              "title": "Ray tracing para tomografías en la web",
               "description": "",
               "startTime": "10:00",
               "endTime": "11:00"
@@ -540,9 +540,9 @@
             },
             {
               "position": 4,
-              "speaker": "César Astudillo",
+              "speaker": "Marco D'Angelo y Victor Estival",
               "speakerInfo": "",
-              "title": "Esto le hacen los chiptunes a tu cerebro: neurociencia de la música de 8 bits",
+              "title": "Kubernetes flexibility on Azure: from native to fully managed Red Hat Opensift",
               "description": "",
               "startTime": "11:30",
               "endTime": "12:30"
@@ -563,7 +563,7 @@
               "title": "Audio en la realidad virtual",
               "description": "",
               "startTime": "13:30",
-              "endTime": "14:15"
+              "endTime": "14:20"
             },
             {
               "position": 7,
@@ -571,7 +571,7 @@
               "speakerInfo": "",
               "title": "Lunch Break",
               "description": "",
-              "startTime": "14:15",
+              "startTime": "14:20",
               "endTime": "15:30"
             },
             {
@@ -585,9 +585,9 @@
             },
             {
               "position": 9,
-              "speaker": "Oriol Ciurana",
+              "speaker": "Daniel Pérez Lozano",
               "speakerInfo": "",
-              "title": "Controlando el consumeo energético del hogar con la ayuda de IoT",
+              "title": "Cómo construir un ordenador cuántico",
               "description": "",
               "startTime": "16:30",
               "endTime": "17:15"
@@ -603,18 +603,18 @@
             },
             {
               "position": 11,
-              "speaker": "Marco Gramaglia y Iñaki Úcar",
+              "speaker": "Joaquín Pena Sapelli y Gabriela Varone",
               "speakerInfo": "",
-              "title": "Datos buenos, limpios y justos para el mejorar el servicio público",
+              "title": "Un árbol de posibilidades",
               "description": "",
               "startTime": "17:30",
               "endTime": "18:30"
             },
             {
               "position": 12,
-              "speaker": "Vinko Vrsalovic",
+              "speaker": "Aarón Nercellas Ventas",
               "speakerInfo": "",
-              "title": "Desarrollando software remoto (cómo saber is es adecuado para ti)",
+              "title": "Nanostélites: una revolución industrial",
               "description": "",
               "startTime": "18:30",
               "endTime": "19:30"
@@ -633,18 +633,18 @@
           "talks": [
             {
               "position": 0,
-              "speaker": "Asier Arranz",
+              "speaker": "Cris Busquets",
               "speakerInfo": "",
-              "title": "Qubits, Bits & Beats!",
+              "title": "Lost in translation: diseño para devs",
               "description": "",
               "startTime": "09:00",
               "endTime": "10:00"
             },
             {
               "position": 1,
-              "speaker": "",
+              "speaker": "Patricia Fernández de Lis, Laura Chaparro y Pamp García Molina",
               "speakerInfo": "",
-              "title": "TBA",
+              "title": "Trío de jefazas en la redacción: rigor, relevancia y ¿rentabilidad?",
               "description": "",
               "startTime": "10:00",
               "endTime": "11:00"
@@ -669,21 +669,21 @@
             },
             {
               "position": 4,
-              "speaker": "Aura Hernández Sabaté",
+              "speaker": "Irene M Morgado",
               "speakerInfo": "",
-              "title": "¿Te subes? Cómo la visión por computador hará seguros nuestros desplazamientos",
+              "title": "TODO MAL",
               "description": "",
               "startTime": "12:30",
               "endTime": "13:30"
             },
             {
               "position": 5,
-              "speaker": "",
+              "speaker": "Daniel Fernández",
               "speakerInfo": "",
-              "title": "TBA",
+              "title": "Arte generativo: la belleza de los algoritmos",
               "description": "",
               "startTime": "13:30",
-              "endTime": "14:30"
+              "endTime": "14:20"
             },
             {
               "position": 6,
@@ -691,52 +691,43 @@
               "speakerInfo": "",
               "title": "Lunch Break",
               "description": "",
-              "startTime": "14:30",
+              "startTime": "14:20",
               "endTime": "16:00"
             },
             {
               "position": 7,
-              "speaker": "Irene M Morgado",
+              "speaker": "Manuel Toharia",
               "speakerInfo": "",
-              "title": "TODO MAL",
+              "title": "Evolución tecnológica en la tele pública ¡Empecemos por el parte meteorológico!",
               "description": "",
               "startTime": "16:00",
               "endTime": "17:00"
             },
             {
               "position": 8,
-              "speaker": "Yago Causiño",
+              "speaker": "Ángel Fernández Ibáñez y Xavi Julián Olmos",
               "speakerInfo": "",
-              "title": "¿Navaja Suiza o Destornillador?",
+              "title": "Developers welcome: impacto social y desarrollo web",
               "description": "",
               "startTime": "17:00",
               "endTime": "18:00"
             },
             {
               "position": 9,
-              "speaker": "Javier Serrano Fernández y Rocío Lozano Miranda",
+              "speaker": "Jorge Ferreiro y Tania Perez",
               "speakerInfo": "",
-              "title": "Cómo entender nuestra mente a través de la neurotecnología",
+              "title": "Developers vs Recruiters: Una batalla épica",
               "description": "",
               "startTime": "18:00",
               "endTime": "19:00"
             },
             {
               "position": 10,
-              "speaker": "",
+              "speaker": "Alejandro Baldominos, Nerea Luis, Mario Montes, Alex blanco y Moisés Martínez",
               "speakerInfo": "",
-              "title": "Keynote TBA",
+              "title": "T3chFest: ¿Cómo lo hacemos?",
               "description": "",
               "startTime": "19:00",
-              "endTime": "19:30"
-            },
-            {
-              "position": 11,
-              "speaker": "",
-              "speakerInfo": "",
-              "title": "Closing",
-              "description": "",
-              "startTime": "19:30",
               "endTime": "20:00"
             }
           ]
@@ -747,18 +738,18 @@
           "talks": [
             {
               "position": 0,
-              "speaker": "Mar Cabra",
+              "speaker": "Asier Arranz",
               "speakerInfo": "",
-              "title": "Cuando haces POP, hay stop",
+              "title": "Qubits, Bits & Beats!",
               "description": "",
               "startTime": "09:00",
               "endTime": "10:00"
             },
             {
               "position": 1,
-              "speaker": "Javier Ramos Carretero y Rodrigo Álvarez Dominguez",
+              "speaker": "Ruth González Novillo y Nerea Sainz de la Maza Doñabeitia",
               "speakerInfo": "",
-              "title": "Talento, trabajo en equipo y tecnología: Las tres T's de Ericsson R&D",
+              "title": "Cloud Security Automation",
               "description": "",
               "startTime": "10:00",
               "endTime": "11:00"
@@ -774,30 +765,30 @@
             },
             {
               "position": 4,
-              "speaker": "Miguel Haro Maldonado",
+              "speaker": "Débora Gómez Bertoli",
               "speakerInfo": "",
-              "title": "Automatización de la seguridad: Ahorrando tiempo, dinero y problemas",
+              "title": "El Flutter de Hamelín",
               "description": "",
               "startTime": "11:30",
               "endTime": "12:30"
             },
             {
               "position": 5,
-              "speaker": "Miguel Ángel Durán García",
+              "speaker": "Francisco Javier Barrena Castillo",
               "speakerInfo": "",
-              "title": "Elige tu propia con Javascript, ES Modules, ArrayBuffers y WebSockets",
+              "title": "Bienvenido a Gotham. Nuevas formas ingeniosas y terroríficas de ciberataques",
               "description": "",
               "startTime": "12:30",
               "endTime": "13:30"
             },
             {
               "position": 6,
-              "speaker": "Pedro Sánchez y Manuel Fragoso",
+              "speaker": "Juani Bermejo-Vega",
               "speakerInfo": "",
-              "title": "You can do mora than REST at work",
+              "title": "¿Pero qué es eso de la computación cuántica?",
               "description": "",
               "startTime": "13:30",
-              "endTime": "14:30"
+              "endTime": "14:20"
             },
             {
               "position": 7,
@@ -805,32 +796,32 @@
               "speakerInfo": "",
               "title": "Lucnh Break",
               "description": "",
-              "startTime": "14:30",
+              "startTime": "14:20",
               "endTime": "16:00"
             },
             {
               "position": 8,
-              "speaker": "Ignacio Crespo Pita",
+              "speaker": "Paco Brevers Gómez",
               "speakerInfo": "",
-              "title": "Del cerebro al ordenador y vuelta",
+              "title": "Murder, 'I' wrote",
               "description": "",
               "startTime": "16:00",
               "endTime": "17:00"
             },
             {
               "position": 9,
-              "speaker": "Ángel Fernández Ibáñez y Xavi Julián Olmos",
+              "speaker": "Yago Causiño",
               "speakerInfo": "",
-              "title": "Developers welcome: impacto social y desarrollo web",
+              "title": "¿Navaja Suiza o Destornillador?",
               "description": "",
               "startTime": "17:00",
               "endTime": "18:00"
             },
             {
               "position": 10,
-              "speaker": "Jorge Ferreiro y Tania Perez",
+              "speaker": "Javier Serrano Fernández y Rocío Lozano Miranda",
               "speakerInfo": "",
-              "title": "Developers vs Recruiters: Una batalla épica",
+              "title": "Cómo entender nuestra mente a través de la neurotecnología",
               "description": "",
               "startTime": "18:00",
               "endTime": "19:00"
@@ -842,15 +833,6 @@
               "title": "",
               "description": "",
               "startTime": "19:00",
-              "endTime": "19:30"
-            },
-            {
-              "position": 12,
-              "speaker": "",
-              "speakerInfo": "",
-              "title": "",
-              "description": "",
-              "startTime": "19:30",
               "endTime": "20:00"
             }
           ]
@@ -861,18 +843,18 @@
           "talks": [
             {
               "position": 0,
-              "speaker": "Cris Busquets",
+              "speaker": "Jaime Márquez Fernández",
               "speakerInfo": "",
-              "title": "Lost in translation: diseño para devs",
+              "title": "Streaming is in the air",
               "description": "",
               "startTime": "09:00",
               "endTime": "10:00"
             },
             {
               "position": 1,
-              "speaker": "Charles Clancy",
+              "speaker": "Miguel Sáenz y Eric Martín",
               "speakerInfo": "",
-              "title": "Promise of 5G: Challenges, Opportunities and Security Concerns",
+              "title": "Politweets - AI para saber qué piensan nuestros políticos",
               "description": "",
               "startTime": "10:00",
               "endTime": "11:00"
@@ -888,30 +870,30 @@
             },
             {
               "position": 3,
-              "speaker": "Débora Gómez Bertoli",
+              "speaker": "Kiko Llaneras",
               "speakerInfo": "",
-              "title": "El Flutter de Hamelín",
+              "title": "Cómo (tratar de) predecir unas elecciones",
               "description": "",
               "startTime": "11:30",
               "endTime": "12:30"
             },
             {
               "position": 4,
-              "speaker": "Marcos Echeandia Ahumada",
+              "speaker": "Miguel Ángel Durán García",
               "speakerInfo": "",
-              "title": "Usuario no hay cambio, se hace camonio al navegar",
+              "title": "Elige tu propia con Javascript, ES Modules, ArrayBuffers y WebSockets",
               "description": "",
               "startTime": "12:30",
               "endTime": "13:30"
             },
             {
               "position": 5,
-              "speaker": "Daniel Fernández",
+              "speaker": "Cristina Aranda Gutiérrez",
               "speakerInfo": "",
-              "title": "Arte generativo: labelleza de los algoritmos",
+              "title": "Qué hace una lingüista en un lugar como este ¡Dame un dato no estructurado!",
               "description": "",
               "startTime": "13:30",
-              "endTime": "14:30"
+              "endTime": "14:20"
             },
             {
               "position": 6,
@@ -919,7 +901,7 @@
               "speakerInfo": "",
               "title": "Lunch Break",
               "description": "",
-              "startTime": "14:30",
+              "startTime": "14:20",
               "endTime": "16:00"
             },
             {
@@ -933,9 +915,9 @@
             },
             {
               "position": 8,
-              "speaker": "Daniel Gozalo Barquilla",
+              "speaker": "María Teresa Nieto Galán",
               "speakerInfo": "",
-              "title": "Pipelines en la(s) nubes con Jenkins X y TektonCD",
+              "title": "Blockchain sin humo: ¿Qué debe conocer un blockchain developer?",
               "description": "",
               "startTime": "17:00",
               "endTime": "18:00"
@@ -956,15 +938,6 @@
               "title": "",
               "description": "",
               "startTime": "19:00",
-              "endTime": "19:30"
-            },
-            {
-              "position": 11,
-              "speaker": "",
-              "speakerInfo": "",
-              "title": "",
-              "description": "",
-              "startTime": "19:30",
               "endTime": "20:00"
             }
           ]
@@ -975,9 +948,9 @@
           "talks": [
             {
               "position": 0,
-              "speaker": "Jorge Prudencio Fernández",
+              "speaker": "Mar Cabra",
               "speakerInfo": "",
-              "title": "Prototipando rápido con chatbots",
+              "title": "Cuando haces POP, hay stop",
               "description": "",
               "startTime": "09:00",
               "endTime": "10:00"
@@ -1002,30 +975,30 @@
             },
             {
               "position": 3,
-              "speaker": "Andrés Pereira de Lucena",
+              "speaker": "Miguel Haro Maldonado y Alberto López Lomas",
               "speakerInfo": "",
-              "title": "Decidim: democracia participativa de código libre para cuidades y organizaciones",
+              "title": "Automatización de la seguridad: Ahorrando tiempo, dinero y problemas",
               "description": "",
               "startTime": "11:30",
               "endTime": "12:30"
             },
             {
               "position": 4,
-              "speaker": "Francisco Javier Barrena Castillo",
+              "speaker": "Aura Hernández Sabaté",
               "speakerInfo": "",
-              "title": "Bienvenido a Gotham. Nuevas formas ingeniosas y terroríficas de ciberataques",
+              "title": "¿Te subes? Cómo la visión por computador hará seguros nuestros desplazamientos",
               "description": "",
               "startTime": "12:30",
               "endTime": "13:30"
             },
             {
               "position": 5,
-              "speaker": "Alex Gascón Bononad",
+              "speaker": "Pedro Sánchez y Manuel Fragoso",
               "speakerInfo": "",
-              "title": "¡Pon una API en tu vida! (literalmente)",
+              "title": "You can do mora than REST at work",
               "description": "",
               "startTime": "13:30",
-              "endTime": "14:30"
+              "endTime": "14:20"
             },
             {
               "position": 6,
@@ -1033,32 +1006,32 @@
               "speakerInfo": "",
               "title": "Lunch Break",
               "description": "",
-              "startTime": "14:30",
+              "startTime": "14:20",
               "endTime": "16:00"
             },
             {
               "position": 7,
-              "speaker": "Alejandro Sánchez de Miguel",
+              "speaker": "Marcos Echeandia Ahumada",
               "speakerInfo": "",
-              "title": "Haciendo el mapa de la tierra de noche en color",
+              "title": "Usuario no hay camino, se hace camino al navegar",
               "description": "",
               "startTime": "16:00",
               "endTime": "17:00"
             },
             {
               "position": 8,
-              "speaker": "María Teresa Nieto Galán",
+              "speaker": "Gema de Rus Carnero y María Camila Maya Salas",
               "speakerInfo": "",
-              "title": "Blockchain sin humo: ¿Qué debe conocer un blockchain developer?",
+              "title": "Headless componentes, sin perder la cabeza",
               "description": "",
               "startTime": "17:00",
               "endTime": "18:00"
             },
             {
               "position": 9,
-              "speaker": "Alfonso de la Rocha",
+              "speaker": "Daniel Medina",
               "speakerInfo": "",
-              "title": "WASM: Un bytecode universal",
+              "title": "Understanding GPS: Aplicaciones, Amenazas y el Futuro de la Navegación por Satélite",
               "description": "",
               "startTime": "19:00",
               "endTime": "19:30"
@@ -1070,15 +1043,6 @@
               "title": "",
               "description": "",
               "startTime": "19:00",
-              "endTime": "19:30"
-            },
-            {
-              "position": 11,
-              "speaker": "",
-              "speakerInfo": "",
-              "title": "",
-              "description": "",
-              "startTime": "19:30",
               "endTime": "20:00"
             }
           ]
@@ -1098,9 +1062,9 @@
             },
             {
               "position": 1,
-              "speaker": "Jaime Márquez Fernández",
+              "speaker": "Javier Ramos Carretero, Rodrigo Álvarez Dominguez y Manuel Lorenzo",
               "speakerInfo": "",
-              "title": "Streaming is in the air",
+              "title": "Talento, trabajo en equipo y tecnología: Las tres T's de Ericsson R&D",
               "description": "",
               "startTime": "10:00",
               "endTime": "11:00"
@@ -1116,9 +1080,9 @@
             },
             {
               "position": 3,
-              "speaker": "Ruth González Novillo y Nerea Sainz de la Maza Doñabeitia",
+              "speaker": "Andrés Pereira de Lucena",
               "speakerInfo": "",
-              "title": "Cloud Security Automation",
+              "title": "Decidim: democracia participativa de código libre para cuidades y organizaciones",
               "description": "",
               "startTime": "11:30",
               "endTime": "12:30"
@@ -1139,7 +1103,7 @@
               "title": "Privacidad en Internet: tu conectividad revela más cosas de las que crees",
               "description": "",
               "startTime": "13:30",
-              "endTime": "14:30"
+              "endTime": "14:20"
             },
             {
               "position": 6,
@@ -1147,32 +1111,32 @@
               "speakerInfo": "",
               "title": "Lunch Break",
               "description": "",
-              "startTime": "14:30",
+              "startTime": "14:20",
               "endTime": "16:00"
             },
             {
               "position": 7,
-              "speaker": "Paco Brevers Gómez",
+              "speaker": "Alejandro Sánchez de Miguel",
               "speakerInfo": "",
-              "title": "Murder, I wrote",
+              "title": "Haciendo el mapa de la tierra de noche en color",
               "description": "",
               "startTime": "16:00",
               "endTime": "17:00"
             },
             {
               "position": 8,
-              "speaker": "Gema de Rus Carnero y María Camila Maya Salas",
+              "speaker": "Daniel Gozalo Barquilla",
               "speakerInfo": "",
-              "title": "Headless componentes, sin perder la cabeza",
+              "title": "Pipelines en la(s) nubes con Jenkins X y TektonCD",
               "description": "",
               "startTime": "17:00",
               "endTime": "18:00"
             },
             {
               "position": 9,
-              "speaker": "Daniel Medina",
+              "speaker": "Alfonso de la Rocha",
               "speakerInfo": "",
-              "title": "Understanding GPS: Aplicaciones, Amenazas y el Futuro de la Navegación por Satélite",
+              "title": "WASM: Un bytecode universal",
               "description": "",
               "startTime": "18:00",
               "endTime": "19:00"
@@ -1184,16 +1148,337 @@
               "title": "",
               "description": "",
               "startTime": "19:00",
-              "endTime": "19:30"
+              "endTime": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dayId": 3,
+      "date": "14/03/2020",
+      "tracks": [
+        {
+          "name": "Hackathon",
+          "location": "",
+          "talks": [
+            {
+              "position": 0,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Hackathon: Diseña, construye, muestra",
+              "description": "",
+              "startTime": "09:00",
+              "endTime": "19:40"
+            }
+          ]
+        },
+        {
+          "name": "Track 1",
+          "location": "",
+          "talks": [
+            {
+              "position": 0,
+              "speaker": "Lucía Honrubia Fernández y Diego Fernández Olombrada",
+              "speakerInfo": "",
+              "title": "Raspberry PI + Simulink =:O",
+              "description": "",
+              "startTime": "09:30",
+              "endTime": "12:00"
             },
             {
-              "position": 11,
-              "speaker": "",
+              "position": 1,
+              "speaker": "José Luis Vázquez Poletti, David Pacios Izquierdo (Pascal), Fernando Méndez Torrubiano y David Davó Laviña",
               "speakerInfo": "",
               "title": "",
               "description": "",
-              "startTime": "19:30",
-              "endTime": "20:00"
+              "startTime": "12:00",
+              "endTime": "15:30"
+            },
+            {
+              "position": 2,
+              "speaker": "David Mingorance y Vicky Vasán",
+              "speakerInfo": "",
+              "title": "Elige tu aventura: creando Realidad Aumentada en Directo",
+              "description": "",
+              "startTime": "15:30",
+              "endTime": "18:00"
+            },
+            {
+              "position": 3,
+              "speaker": "Sabela Ramos Garea",
+              "speakerInfo": "",
+              "title": "Let's Go",
+              "description": "",
+              "startTime": "18:00",
+              "endTime": "19:40"
+            }
+          ]
+        },
+        {
+          "name": "Track 2",
+          "location": "",
+          "talks": [
+            {
+              "position": 0,
+              "speaker": "Jorge Baumann",
+              "speakerInfo": "",
+              "title": "Convierte tu navegador en una grabadora de audio",
+              "description": "",
+              "startTime": "09:30",
+              "endTime": "12:00"
+            },
+            {
+              "position": 1,
+              "speaker": "Jorge Sanz",
+              "speakerInfo": "",
+              "title": "Mapas para todos: usando datos abiertos para tu próximo proyecto",
+              "description": "",
+              "startTime": "12:00",
+              "endTime": "15:30"
+            },
+            {
+              "position": 2,
+              "speaker": "Edgar Pérez Sampedro y Javier Jiménez del Peso",
+              "speakerInfo": "",
+              "title": "Creando un deep-bot from scratch",
+              "description": "",
+              "startTime": "15:30",
+              "endTime": "18:00"
+            },
+            {
+              "position": 3,
+              "speaker": "Israel Herraiz",
+              "speakerInfo": "",
+              "title": "Reinforcement Learning con Tensorflow: cómo crear un agente juegue al Conecta 4",
+              "description": "",
+              "startTime": "18:00",
+              "endTime": "19:40"
+            }
+          ]
+        },
+        {
+          "name": "Track 3",
+          "location": "",
+          "talks": [
+            {
+              "position": 0,
+              "speaker": "Raquel Lainde",
+              "speakerInfo": "",
+              "title": "Cómo hackear los procesos de evaluación para facilitar la diversidad vertical",
+              "description": "",
+              "startTime": "09:30",
+              "endTime": "12:00"
+            },
+            {
+              "position": 1,
+              "speaker": "Jesús Amieiro Becerra",
+              "speakerInfo": "",
+              "title": "Git avanzado",
+              "description": "",
+              "startTime": "12:00",
+              "endTime": "15:30"
+            },
+            {
+              "position": 2,
+              "speaker": "David Carvajal Garrido",
+              "speakerInfo": "",
+              "title": "Realidad virtual entornos web 3D con A-Frame",
+              "description": "",
+              "startTime": "15:30",
+              "endTime": "18:00"
+            },
+            {
+              "position": 3,
+              "speaker": "Maciej Rząsa",
+              "speakerInfo": "",
+              "title": "I can kill your browser with a simple regexp",
+              "description": "",
+              "startTime": "18:00",
+              "endTime": "19:40"
+            }
+          ]
+        },
+        {
+          "name": "Track 4",
+          "location": "",
+          "talks": [
+            {
+              "position": 0,
+              "speaker": "Joan Leon",
+              "speakerInfo": "",
+              "title": "Animación",
+              "description": "",
+              "startTime": "09:30",
+              "endTime": "12:00"
+            },
+            {
+              "position": 1,
+              "speaker": "Javier Coronel Orovio",
+              "speakerInfo": "",
+              "title": "Build a GraphQL & gRPC based microservice application with GO",
+              "description": "",
+              "startTime": "12:00",
+              "endTime": "15:30"
+            },
+            {
+              "position": 2,
+              "speaker": "Sergio Arroyo Cuevas y Pedro Gómez",
+              "speakerInfo": "",
+              "title": "Introducción a Property Based Testing",
+              "description": "",
+              "startTime": "15:30",
+              "endTime": "18:00"
+            },
+            {
+              "position": 3,
+              "speaker": "Manuel Eusebio de Paz Carmona",
+              "speakerInfo": "",
+              "title": "JAM Stack 101: Construyendo una web con Gatsby.js & React",
+              "description": "",
+              "startTime": "18:00",
+              "endTime": "19:40"
+            }
+          ]
+        },
+        {
+          "name": "Track 5",
+          "location": "",
+          "talks": [
+            {
+              "position": 0,
+              "speaker": "ReD ReD",
+              "speakerInfo": "",
+              "title": "Monta tu propio laboratorio de pentesting",
+              "description": "",
+              "startTime": "09:30",
+              "endTime": "12:00"
+            },
+            {
+              "position": 1,
+              "speaker": "Juan Manuel Ruiz Fernández",
+              "speakerInfo": "",
+              "title": "101 Serverless framework",
+              "description": "",
+              "startTime": "12:00",
+              "endTime": "15:30"
+            },
+            {
+              "position": 2,
+              "speaker": "Julio César Fernández Muñoz",
+              "speakerInfo": "",
+              "title": "SwitfUI, el futuro del desarrollo en entornos Apple",
+              "description": "",
+              "startTime": "15:30",
+              "endTime": "18:00"
+            },
+            {
+              "position": 3,
+              "speaker": "Miguel Ramón Ortega i Tido",
+              "speakerInfo": "",
+              "title": "Monitoring the easy way",
+              "description": "",
+              "startTime": "18:00",
+              "endTime": "19:40"
+            }
+          ]
+        },
+        {
+          "name": "Track Hopper",
+          "location": "",
+          "talks": [
+            {
+              "position": 0,
+              "speaker": "Javier Pérez",
+              "speakerInfo": "",
+              "title": "Crea tu pollo robótico y parende a programarlo",
+              "description": "",
+              "startTime": "10:30",
+              "endTime": "12:00"
+            },
+            {
+              "position": 1,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Break",
+              "description": "",
+              "startTime": "12:00",
+              "endTime": "12:30"
+            },
+            {
+              "position": 2,
+              "speaker": "Abigail Sulca Bocanegra",
+              "speakerInfo": "",
+              "title": "Mi primer circuito eléctrico",
+              "description": "",
+              "startTime": "12:30",
+              "endTime": "14:00"
+            }
+          ]
+        },
+        {
+          "name": "Track Liskov",
+          "location": "",
+          "talks": [
+            {
+              "position": 0,
+              "speaker": "Salomé Limón",
+              "speakerInfo": "",
+              "title": "Aprende a mezclar una canción",
+              "description": "",
+              "startTime": "10:30",
+              "endTime": "12:00"
+            },
+            {
+              "position": 1,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Break",
+              "description": "",
+              "startTime": "12:00",
+              "endTime": "12:30"
+            },
+            {
+              "position": 2,
+              "speaker": "Jesús Cuesta Arza",
+              "speakerInfo": "",
+              "title": "Taller para crear tu asistente virtual sin programación",
+              "description": "",
+              "startTime": "12:30",
+              "endTime": "14:00"
+            }
+          ]
+        },
+        {
+          "name": "Track Ritchie",
+          "location": "",
+          "talks": [
+            {
+              "position": 0,
+              "speaker": "Nuria Prieto y Ana Isabel González-Tabias Ferreres",
+              "speakerInfo": "",
+              "title": "Taller de CTFs para niñas y niños",
+              "description": "",
+              "startTime": "10:30",
+              "endTime": "12:00"
+            },
+            {
+              "position": 1,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Break",
+              "description": "",
+              "startTime": "12:00",
+              "endTime": "12:30"
+            },
+            {
+              "position": 2,
+              "speaker": "Elvira Castillo Fernández",
+              "speakerInfo": "",
+              "title": "Programar + Hardware + Plastilina = ¿Videojuego?",
+              "description": "",
+              "startTime": "12:30",
+              "endTime": "14:00"
             }
           ]
         }
