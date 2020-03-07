@@ -1,0 +1,348 @@
+{
+  "name": "WTM Barcelona",
+  "localtion": "Hotel Novotel",
+  "days": [
+    {
+      "dayId": 1,
+      "date": "21/03/2020",
+      "tracks": [
+        {
+          "name": "Wallapop",
+          "location": "",
+          "talks": [
+            {
+              "position": 0,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Opening",
+              "description": "",
+              "startTime": "08:45",
+              "endTime": "09:10"
+            },
+            {
+              "position": 1,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome",
+              "description": "",
+              "startTime": "09:10",
+              "endTime": "09:30"
+            },
+            {
+              "position": 2,
+              "speaker": "Garance Vallat",
+              "speakerInfo": "",
+              "title": "Everything you don't need to know about Git",
+              "description": "",
+              "startTime": "09:30",
+              "endTime": "10:10"
+            },
+            {
+              "position": 3,
+              "speaker": "Laia Subirats",
+              "speakerInfo": "",
+              "title": "Intelligent Tutoring Systems in Archaeology",
+              "description": "",
+              "startTime": "10:15",
+              "endTime": "10:55"
+            },
+            {
+              "position": 4,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Coffee Break",
+              "description": "",
+              "startTime": "11:00",
+              "endTime": "11:30"
+            },
+            {
+              "position": 5,
+              "speaker": "Shreya Agrawal",
+              "speakerInfo": "",
+              "title": "GeoSpatial Data: Analysis and Modelling",
+              "description": "",
+              "startTime": "11:30",
+              "endTime": "12:10"
+            },
+            {
+              "position": 6,
+              "speaker": "Irene Michelle Lopez Carron",
+              "speakerInfo": "",
+              "title": "From Java using REST to Kotlin using GraphQL: A use case",
+              "description": "",
+              "startTime": "12:15",
+              "endTime": "12:55"
+            },
+            {
+              "position": 7,
+              "speaker": "Estefanía García Gallardo",
+              "speakerInfo": "",
+              "title": "The power of RxJS: Building a Flappy Bird in Angular",
+              "description": "",
+              "startTime": "13:00",
+              "endTime": "13:40"
+            },
+            {
+              "position": 8,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Lunch",
+              "description": "",
+              "startTime": "13:45",
+              "endTime": "15:15"
+            },{
+              "position": 9,
+              "speaker": "Colleen McMillon",
+              "speakerInfo": "",
+              "title": "Reinforcement Learning: from videogames to industry",
+              "description": "",
+              "startTime": "15:15",
+              "endTime": "15:55"
+            },{
+              "position": 10,
+              "speaker": "Diana Xifre & Angels Bonfill",
+              "speakerInfo": "",
+              "title": "A case of QA transformation and how to transfer the Quality Mindset to the Teams",
+              "description": "",
+              "startTime": "16:00",
+              "endTime": "16:40"
+            },
+            {
+              "position": 11,
+              "speaker": "Sara San Luís Rodríguez & Daniela Solis",
+              "speakerInfo": "",
+              "title": "In pursuit of an inclusive AI",
+              "description": "",
+              "startTime": "16:45",
+              "endTime": "17:25"
+            },
+            {
+              "position": 12,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Closing",
+              "description": "",
+              "startTime": "17:30",
+              "endTime": "18:30"
+            }
+          ]
+        },
+        {
+          "name": "Adevinta",
+          "location": "",
+          "talks": [
+            {
+              "position": 0,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Opening",
+              "description": "",
+              "startTime": "08:45",
+              "endTime": "09:10"
+            },
+            {
+              "position": 1,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome",
+              "description": "",
+              "startTime": "09:10",
+              "endTime": "09:30"
+            },
+            {
+              "position": 2,
+              "speaker": "Eli & Inma",
+              "speakerInfo": "",
+              "title": "Tu feedback genera bugs en producción",
+              "description": "",
+              "startTime": "09:30",
+              "endTime": "10:10"
+            },
+            {
+              "position": 3,
+              "speaker": "Laura Beltran",
+              "speakerInfo": "",
+              "title": "Data Storytelling con Power BI: Women in Tech",
+              "description": "",
+              "startTime": "10:15",
+              "endTime": "10:55"
+            },
+            {
+              "position": 4,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Coffee Break",
+              "description": "",
+              "startTime": "11:00",
+              "endTime": "11:30"
+            },
+            {
+              "position": 5,
+              "speaker": "Débora Gómez Bertoli",
+              "speakerInfo": "",
+              "title": "El Flutter de Hamelín",
+              "description": "",
+              "startTime": "11:30",
+              "endTime": "12:10"
+            },
+            {
+              "position": 6,
+              "speaker": "Lizzeth Quinteros García",
+              "speakerInfo": "",
+              "title": "Escalabilidad del dato, mito o reto?",
+              "description": "",
+              "startTime": "12:15",
+              "endTime": "12:55"
+            },
+            {
+              "position": 7,
+              "speaker": "Marta Bellés",
+              "speakerInfo": "",
+              "title": "Blockchain y criptografía aplicadas a la identidad digital",
+              "description": "",
+              "startTime": "13:00",
+              "endTime": "13:40"
+            },
+            {
+              "position": 8,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Lunch",
+              "description": "",
+              "startTime": "13:45",
+              "endTime": "15:15"
+            },{
+              "position": 9,
+              "speaker": "Ana Carmona",
+              "speakerInfo": "",
+              "title": "Comunicación efectiva en equipos ágiles: Gestión de situaciones 'tóxicas'",
+              "description": "",
+              "startTime": "15:15",
+              "endTime": "15:55"
+            },{
+              "position": 10,
+              "speaker": "María Ballesteros",
+              "speakerInfo": "",
+              "title": "¡Ojo, que se ve!",
+              "description": "",
+              "startTime": "16:00",
+              "endTime": "16:40"
+            },
+            {
+              "position": 11,
+              "speaker": "María Vives",
+              "speakerInfo": "",
+              "title": "Querido Testing: Me has salvado la vida",
+              "description": "",
+              "startTime": "16:45",
+              "endTime": "17:25"
+            },
+            {
+              "position": 12,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Closing",
+              "description": "",
+              "startTime": "17:30",
+              "endTime": "18:30"
+            }
+          ]
+        },
+        {
+          "name": "ManoMano",
+          "location": "",
+          "talks": [
+            {
+              "position": 0,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Opening",
+              "description": "",
+              "startTime": "08:45",
+              "endTime": "09:10"
+            },
+            {
+              "position": 1,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Welcome",
+              "description": "",
+              "startTime": "09:10",
+              "endTime": "09:30"
+            },
+            {
+              "position": 2,
+              "speaker": "Ana María García",
+              "speakerInfo": "",
+              "title": "Stop calling everything a mock",
+              "description": "",
+              "startTime": "09:30",
+              "endTime": "11:00"
+            },
+            {
+              "position": 4,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Coffee Break",
+              "description": "",
+              "startTime": "11:00",
+              "endTime": "11:30"
+            },
+            {
+              "position": 5,
+              "speaker": "Marta Wisniewska",
+              "speakerInfo": "",
+              "title": "Superchange your web apps",
+              "description": "",
+              "startTime": "11:30",
+              "endTime": "13:00"
+            },
+            {
+              "position": 6,
+              "speaker": "Inma Valls",
+              "speakerInfo": "",
+              "title": "Construye un buscador para tu app con Elasticsearch (part 1)",
+              "description": "",
+              "startTime": "13:00",
+              "endTime": "13:45"
+            },
+            {
+              "position": 8,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Lunch",
+              "description": "",
+              "startTime": "13:45",
+              "endTime": "15:15"
+            },{
+              "position": 9,
+              "speaker": "Inma Valls",
+              "speakerInfo": "",
+              "title": "Construye un buscador para tu app con Elasticsearch (part 2)",
+              "description": "",
+              "startTime": "15:15",
+              "endTime": "16:00"
+            },{
+              "position": 10,
+              "speaker": "Lego Maze for Kids 4-7 and Do-it-Yourself Robots for kids 8-12",
+              "speakerInfo": "",
+              "title": "Kids Workshop",
+              "description": "",
+              "startTime": "16:00",
+              "endTime": "17:30"
+            },
+            {
+              "position": 12,
+              "speaker": "",
+              "speakerInfo": "",
+              "title": "Closing",
+              "description": "",
+              "startTime": "17:30",
+              "endTime": "18:30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
